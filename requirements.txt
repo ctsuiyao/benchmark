@@ -1,0 +1,12 @@
+numpy
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
+datetime
+requests
+json
+pandas
+numpy
+matplotlib.pyplot
+IPython.display
+plotly.graph_objects
