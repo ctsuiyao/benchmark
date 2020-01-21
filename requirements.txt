@@ -7,6 +7,5 @@ requests
 simplejson
 pandas
 numpy
-matplotlib.pyplot
-IPython.display
-plotly.graph_objects
+matplotlib
+IPython
