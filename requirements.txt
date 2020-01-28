@@ -10,3 +10,6 @@ pandas
 numpy
 matplotlib
 IPython
+sphinx>=1.4
+ipykernel
+nbsphinx
