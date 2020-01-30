@@ -7,8 +7,6 @@ datetime
 requests
 simplejson
 pandas
-numpy
-matplotlib
 IPython
 sphinx>=1.4
 ipykernel
