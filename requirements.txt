@@ -8,7 +8,7 @@ requests
 simplejson
 pandas
 IPython
-sphinx>=1.4
+sphinx
 ipykernel
 nbsphinx
 jupyter-sphinx-theme
