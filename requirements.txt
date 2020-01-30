@@ -1,8 +1,6 @@
 numpy
 matplotlib
 ipywidgets
-ipyleaflet
-jupyter_contrib_nbextensions
 datetime
 requests
 simplejson
