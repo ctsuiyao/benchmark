@@ -6,3 +6,4 @@ requests
 simplejson
 pandas
 IPython
+dateutil.rrule
