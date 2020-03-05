@@ -5,5 +5,3 @@ datetime
 requests
 simplejson
 pandas
-IPython
-dateutil.rrule
