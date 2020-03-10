@@ -5,4 +5,4 @@ datetime
 requests
 simplejson
 pandas
-dateutil
+python-dateutil
