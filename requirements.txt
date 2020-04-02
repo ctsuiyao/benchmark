@@ -6,3 +6,4 @@ requests
 simplejson
 pandas
 python-dateutil
+os
